@@ -1,0 +1,28 @@
+# 編譯輸出的二進制檔案
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+
+# 編譯的臨時檔案
+*.out
+*.o
+
+# 依賴模組目錄
+/vendor/
+
+# Go Modules
+go.sum
+go.work
+go.work.sum
+
+# IDE/編輯器相關檔案
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系統檔案
+.DS_Store
+Thumbs.db
