@@ -12,6 +12,9 @@
 # 依賴模組目錄
 /vendor/
 
+# 編譯後的二進制檔案
+/build/
+
 # Go Modules
 go.sum
 go.work
